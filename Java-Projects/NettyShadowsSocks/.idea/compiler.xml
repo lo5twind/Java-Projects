@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="NettyShadowSocksLocal" />
+        <module name="NettyShadowSocksServer" />
+        <module name="NettyShadowSocksSocks5Server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="NettyShadowSocks" target="1.6" />
+      <module name="NettyShadowSocks.local" target="1.6" />
+      <module name="NettyShadowSocks.server" target="1.6" />
+      <module name="NettyShadowSocks.Socks5Server" target="1.6" />
+      <module name="NettyShadowSocks.Utils" target="1.6" />
+      <module name="NettyShadowSocksLocal" target="1.6" />
+      <module name="NettyShadowSocksServer" target="1.6" />
+      <module name="NettyShadowSocksSocks5Server" target="1.6" />
+      <module name="NettyShadowsSocks" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

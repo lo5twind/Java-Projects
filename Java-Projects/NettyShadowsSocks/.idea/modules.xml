@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NettyShadowSocksLocal/NettyShadowSocksLocal.iml" filepath="$PROJECT_DIR$/NettyShadowSocksLocal/NettyShadowSocksLocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyShadowSocksServer/NettyShadowSocksServer.iml" filepath="$PROJECT_DIR$/NettyShadowSocksServer/NettyShadowSocksServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyShadowsSocks.iml" filepath="$PROJECT_DIR$/NettyShadowsSocks.iml" />
+    </modules>
+  </component>
+</project>
